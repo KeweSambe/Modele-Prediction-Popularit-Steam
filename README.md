@@ -98,7 +98,7 @@ The model explains a significant portion of variance in `Global_Sales`, while hi
 
 ## 🚀 Deliverables
 
-- 📓 Full [Jupyter Notebook]
+- 📓 Full [Jupyter Notebook](https://github.com/KeweSambe/Modele-Prediction-Popularit-Steam/blob/main/Mod%C3%A8le%20pr%C3%A9dictif%20linear%20regrssion%20K%C3%A9w%C3%A9%20SAMBE.ipynb)
 - 📊 Data visualizations
 - 🤖 Predictive model
 - 📝 Executive summary (this README)
