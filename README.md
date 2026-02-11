@@ -98,7 +98,7 @@ The model explains a significant portion of variance in `Global_Sales`, while hi
 
 ## 🚀 Deliverables
 
-- 📓 Full Jupyter Notebook
+- 📓 Full [Jupyter Notebook]
 - 📊 Data visualizations
 - 🤖 Predictive model
 - 📝 Executive summary (this README)
@@ -106,6 +106,6 @@ The model explains a significant portion of variance in `Global_Sales`, while hi
 ## 📂 Data Source
 All data used comes from **[Kaggle](https://www.kaggle.com/)** :
 
-👉 [Link to the dataset "Steam's daily sales"]((https://www.kaggle.com/datasets/hdcortes/daily-steam-sales))  
+👉 [Link to the dataset "Steam's daily sales"](https://www.kaggle.com/datasets/hdcortes/daily-steam-sales)
 
-<sub>*All rights belong to their respective authors.*</sub
+<sub>*All rights belong to their respective authors.*</sub>
